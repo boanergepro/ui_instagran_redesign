@@ -2,4 +2,4 @@
 
 Practicando Flutter.
 
-![picture](img/ui_instagran_redesign.png)
+![picture](assets/ui_instagran_redesign.png)
